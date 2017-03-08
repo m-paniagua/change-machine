@@ -1,0 +1,34 @@
+G:\co sci 808\paniaguamChangeMachine\paniaguamChangeMachine\bin\Debug\paniaguamChangeMachine.exe.config
+G:\co sci 808\paniaguamChangeMachine\paniaguamChangeMachine\bin\Debug\paniaguamChangeMachine.exe
+G:\co sci 808\paniaguamChangeMachine\paniaguamChangeMachine\bin\Debug\paniaguamChangeMachine.pdb
+G:\co sci 808\paniaguamChangeMachine\paniaguamChangeMachine\bin\Debug\paniaguamChangeMachine.xml
+G:\co sci 808\paniaguamChangeMachine\paniaguamChangeMachine\obj\Debug\paniaguamChangeMachine.frmChangeMachine.resources
+G:\co sci 808\paniaguamChangeMachine\paniaguamChangeMachine\obj\Debug\paniaguamChangeMachine.Resources.resources
+G:\co sci 808\paniaguamChangeMachine\paniaguamChangeMachine\obj\Debug\paniaguamChangeMachine.vbproj.GenerateResource.Cache
+G:\co sci 808\paniaguamChangeMachine\paniaguamChangeMachine\obj\Debug\paniaguamChangeMachine.exe
+G:\co sci 808\paniaguamChangeMachine\paniaguamChangeMachine\obj\Debug\paniaguamChangeMachine.xml
+G:\co sci 808\paniaguamChangeMachine\paniaguamChangeMachine\obj\Debug\paniaguamChangeMachine.pdb
+E:\co sci 808\paniaguamChangeMachine\paniaguamChangeMachine\bin\Debug\paniaguamChangeMachine.exe.config
+E:\co sci 808\paniaguamChangeMachine\paniaguamChangeMachine\obj\Debug\paniaguamChangeMachine.exe
+E:\co sci 808\paniaguamChangeMachine\paniaguamChangeMachine\obj\Debug\paniaguamChangeMachine.xml
+E:\co sci 808\paniaguamChangeMachine\paniaguamChangeMachine\obj\Debug\paniaguamChangeMachine.pdb
+E:\co sci 808\paniaguamChangeMachine\paniaguamChangeMachine\bin\Debug\paniaguamChangeMachine.exe
+E:\co sci 808\paniaguamChangeMachine\paniaguamChangeMachine\bin\Debug\paniaguamChangeMachine.pdb
+E:\co sci 808\paniaguamChangeMachine\paniaguamChangeMachine\bin\Debug\paniaguamChangeMachine.xml
+E:\co sci 808\paniaguamChangeMachine\paniaguamChangeMachine\obj\Debug\paniaguamChangeMachine.frmChangeMachine.resources
+E:\co sci 808\paniaguamChangeMachine\paniaguamChangeMachine\obj\Debug\paniaguamChangeMachine.Resources.resources
+E:\co sci 808\paniaguamChangeMachine\paniaguamChangeMachine\obj\Debug\paniaguamChangeMachine.vbproj.GenerateResource.Cache
+I:\co sci 808\paniaguamChangeMachine\paniaguamChangeMachine\bin\Debug\paniaguamChangeMachine.exe.config
+I:\co sci 808\paniaguamChangeMachine\paniaguamChangeMachine\obj\Debug\paniaguamChangeMachine.exe
+I:\co sci 808\paniaguamChangeMachine\paniaguamChangeMachine\obj\Debug\paniaguamChangeMachine.xml
+I:\co sci 808\paniaguamChangeMachine\paniaguamChangeMachine\obj\Debug\paniaguamChangeMachine.pdb
+G:\co_sci_808\paniaguamChangeMachine\paniaguamChangeMachine\bin\Debug\paniaguamChangeMachine.exe.config
+G:\co_sci_808\paniaguamChangeMachine\paniaguamChangeMachine\obj\Debug\paniaguamChangeMachine.exe
+G:\co_sci_808\paniaguamChangeMachine\paniaguamChangeMachine\obj\Debug\paniaguamChangeMachine.xml
+G:\co_sci_808\paniaguamChangeMachine\paniaguamChangeMachine\obj\Debug\paniaguamChangeMachine.pdb
+G:\co_sci_808\paniaguamChangeMachine\paniaguamChangeMachine\bin\Debug\paniaguamChangeMachine.exe
+G:\co_sci_808\paniaguamChangeMachine\paniaguamChangeMachine\bin\Debug\paniaguamChangeMachine.pdb
+G:\co_sci_808\paniaguamChangeMachine\paniaguamChangeMachine\bin\Debug\paniaguamChangeMachine.xml
+G:\co_sci_808\paniaguamChangeMachine\paniaguamChangeMachine\obj\Debug\paniaguamChangeMachine.frmChangeMachine.resources
+G:\co_sci_808\paniaguamChangeMachine\paniaguamChangeMachine\obj\Debug\paniaguamChangeMachine.Resources.resources
+G:\co_sci_808\paniaguamChangeMachine\paniaguamChangeMachine\obj\Debug\paniaguamChangeMachine.vbproj.GenerateResource.Cache
